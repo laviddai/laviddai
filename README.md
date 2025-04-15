@@ -1,3 +1,2 @@
-## Hi there 👋
- 🔭 I’m currently working on ... A cool PhD Project at Unimelb
-🌱 I’m currently learning ... About coding and wanting to help the research field
+Currently working on a PhD Project at Unimelb
+Currently learning about coding and wanting to help the research field
